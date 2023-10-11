@@ -1,0 +1,21 @@
+/application/config/database.php
+/application/config/config.php
+
+/uploads/campaign_documents/*
+/uploads/campaign_email/*
+/uploads/daily_status_report/*
+/uploads/dealer_po_documents/*
+/uploads/demo_image/*
+
+# to keep the folder and not the files
+!uploads/campaign_documents/index.html
+!uploads/campaign_email/index.html
+!uploads/daily_status_report/index.html
+!uploads/dealer_po_documents/index.html
+!uploads/demo_image/index.html
+
+index.php
+.DS_Store
+/.htaccess
+error_log
+phpinfo.php

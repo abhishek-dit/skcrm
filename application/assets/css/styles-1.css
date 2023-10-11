@@ -1,0 +1,28 @@
+.modal-footer {   border-top: 0px; }
+.btn-primary {
+  background: #007aff;
+  border-color: #007aff; }
+  .btn-primary:hover, .btn-primary.active {
+    background: transparent;
+    color: #007aff;
+    border-color: #007aff; }
+    .btn-primary:hover .caret, .btn-primary.active .caret {
+      border-top-color: #007aff; }
+
+ /*mahesh style: 14th july 2:40 pm Validation*/
+.parsley-error-list {
+  margin-top: 4px;
+  padding: 0;
+}
+.parsley-error-list li {
+  padding: 0;
+  list-style: none;
+  color: #cc0000;
+}
+.parsley-error {
+  border-color: #c00 !important;
+}
+	  
+
+  
+  
